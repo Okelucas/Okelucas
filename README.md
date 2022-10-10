@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Oke Lucas
-- 👀 I’m interested in any
+- 👋 Hi, I’m Lucas
+- 👀 I’m interested in Data Science, Writting subliminals thinks, Mysteries...
 - 🌱 I’m currently learning Mathmatics, Economics ans Statistics
 - 💞️ I’m looking to collaborate on any interrestin project in which i can learn new things
 - 📫 How to reach me : okelucasbig@gmail.com
